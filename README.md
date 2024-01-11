@@ -39,4 +39,3 @@ Las vistas se han desarrollado utilizando **Oracle SQL Developer**, un entorno i
    git clone https://github.com/tuusuario/lavadero-vistas-materializadas.git
 
 En esta versión se menciona explícitamente que se utilizó **Oracle SQL Developer** para trabajar con las vistas materializadas. Puedes ajustar los detalles según tu proyecto, pero este formato debería cumplir con las expectativas para un `README.md` en GitHub.
-#
